@@ -11,6 +11,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 - [ ] **DL-OL7** — No presupone PyTorch, TensorFlow, GPU o Python como requisitos para toda explicación.
 - [ ] **DL-OL8** — Reconoce límites, sensibilidad a datos y falta de evidencia antes de afirmar dominio.
 
+- [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |

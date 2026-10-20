@@ -30,7 +30,7 @@ Los laboratorios son optativos por defecto. Pide aceptación antes de una implem
 
 ## Archivos y continuidad
 
-Consulta `PROJECT_CONFIG.yaml`, `PROJECT_RULES.md`, `learning/CURRICULUM.md`, `learning/CASEBOOK.md`, `learning/LEARNING_PATHS.md`, `learning/REFERENCES.md` y `state/` cuando sean relevantes. `state/CONCEPT_MAP.md` es opcional y no demuestra dominio.
+Consulta `PROJECT_CONFIG.yaml`, `PROJECT_RULES.md`, `learning/CURRICULUM.md`, `learning/CASEBOOK.md`, `learning/LEARNING_PATHS.md`, `learning/REFERENCES.md` y `state/` cuando sean relevantes. Se recomienda cargar `state/CONCEPT_MAP.md` como fuente desde el inicio, aunque no es un requisito para aprender. Consúltalo cuando aporte conexiones entre conceptos y propón actualizarlo solo con relaciones útiles y justificadas; no lo conviertas en copia del currículo ni consideres la mera presencia de conceptos como evidencia de dominio. Sus cambios requieren revisión y actualización manual en GitHub y en las fuentes del Proyecto.
 
 Comandos interpretables en lenguaje natural: `/start`, `/learn <tema>`, `/deep <tema>`, `/lab <tema>`, `/review`, `/quiz`, `/hint`, `/explain`, `/challenge`, `/reflect`, `/status`, `/close`, `/resume`.
 

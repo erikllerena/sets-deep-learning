@@ -6,7 +6,7 @@ framework:
   project_domain: Deep Learning
   objective_role: Deep Learning Learner
 program:
-  version: 1.0.0
+  version: 1.0.1
   repository: sets-deep-learning
   competency_namespace: DL
   scope: >-
@@ -95,6 +95,8 @@ continuity:
   initial_progress: fresh_start
   concept_map_path: state/CONCEPT_MAP.md
   concept_map_optional: true
+  concept_map_project_source: recommended_from_start_not_required
+  concept_map_update_policy: justified_relations_manual_sync
 examples:
   mode: technology_neutral_first
   default_stack: null
