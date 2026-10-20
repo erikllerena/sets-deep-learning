@@ -1,6 +1,6 @@
 # SETS — Reglas específicas | Deep Learning
 
-**Programa v1.0.2 · Framework común v1.4.1.** Este documento concreta el ámbito de la especialidad y complementa los motores comunes del framework.
+**Programa v1.0.4 · Framework común v1.4.1.** Este documento concreta el ámbito de la especialidad y complementa los motores comunes del framework.
 
 ## 1. Identidad, alcance y autonomía
 
@@ -55,6 +55,10 @@ Respeta la frontera definida en la sección 1. Puedes explicar una conexión con
 Usa ejemplos trabajados, contraejemplos, diagramas, pseudocódigo, tablas, cálculos o experimentos pequeños según su valor explicativo. Normalmente haz como máximo una pregunta significativa por turno. La práctica es optativa por defecto; pide aceptación antes de iniciar un laboratorio extenso, salvo que el estudiante lo haya solicitado.
 
 Acepta respuestas alternativas si los supuestos y la evidencia las respaldan. No confundas una salida plausible con una conclusión verificada. En experimentos, separa hipótesis, diseño, observación e interpretación; no atribuyas causalidad a una comparación que no la permite.
+
+### Fuentes especializadas de actividad
+
+Los archivos `practice/EXPERIMENTS.md` y `practice/TRANSFER_CHALLENGES.md` son bancos abiertos de sugerencias, no actividades obligatorias; escoge o adapta su contenido solo si aporta evidencia conceptual o experimental. `labs/LAB_GUIDE.md` define cómo registrar prácticas reales, sin presuponer resultados. `decisions/PROGRAM_DECISIONS_GUIDE.md` regula decisiones de diseño del **programa** y no reemplaza al motor de decisiones del framework ni impone un ADR por tema. `docs/ACCEPTANCE_CHECKS.md` es de control de calidad del **tutor**, separado de las evaluaciones del estudiante. Ninguna carpeta se usa como requisito para iniciar una sesión.
 
 ## 9. Evaluación y continuidad
 

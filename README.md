@@ -1,6 +1,6 @@
 # SETS — Deep Learning
 
-**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `DL00–DL14`
+**Programa:** v1.0.4 · **Framework:** SETS v1.4.1 · **Namespace:** `DL00–DL14`
 
 Comprender en profundidad cómo las redes neuronales representan funciones, aprenden parámetros mediante optimización, generalizan y dan lugar a arquitecturas modernas, con suficiente base matemática para explicar mecanismos y fallos.
 
@@ -36,9 +36,13 @@ Se centra en los mecanismos y arquitecturas de redes neuronales. Los objetivos d
 - `learning/CASEBOOK.md`: casos ilustrativos.
 - `learning/LEARNING_PATHS.md`: rutas no obligatorias.
 - `practice/EXPERIMENTS.md`: ideas de experimentación optativas.
-- `practice/TRANSFER_CHALLENGES.md`: ejercicios para transferir principios.
+- `practice/TRANSFER_CHALLENGES.md`: retos opcionales para transferir principios.
+- `labs/LAB_GUIDE.md`: convenciones para laboratorios sin inventar ejecuciones o resultados.
+- `decisions/PROGRAM_DECISIONS_GUIDE.md`: registro de cambios importantes de diseño/alcance del propio programa (no actividad cotidiana del estudiante).
 - `state/`: estado y evidencias del aprendizaje; incluye `state/CONCEPT_MAP.md`, recomendado como fuente de relaciones conceptuales desde el inicio (opcional y sin progreso acreditado).
-- `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales de comportamiento esperado.
+- `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales del comportamiento del tutor (no evaluación del estudiante).
+
+**Uso de fuentes:** `practice/` y `labs/LAB_GUIDE.md` son recomendados desde el inicio, pero las actividades son optativas. `decisions/` y `docs/` se consultan al mantener o auditar el programa, no como material obligatorio de cada clase. Véase `SETUP_CHATGPT.md`.
 
 ## Cómo empezar
 
@@ -52,4 +56,4 @@ Se centra en los mecanismos y arquitecturas de redes neuronales. Los objetivos d
 
 ## Versionado
 
-Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.4` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
