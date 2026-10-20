@@ -13,6 +13,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 
 - [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
 
+- [ ] **FW-SETUP-01** — El Proyecto carga `INTERACTION_ENGINE.md`, `DECISION_ENGINE.md`, `PRACTICE_ENGINE.md` y los demás archivos esenciales de SETS Framework v1.4.1 como **fuentes**, conservando como únicas instrucciones activas las del programa. Esta prueba es manual y sigue pendiente hasta revisarse en un Proyecto real.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |

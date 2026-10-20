@@ -1,6 +1,6 @@
 # SETS — Deep Learning
 
-**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `DL00–DL14`
+**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `DL00–DL14`
 
 Comprender en profundidad cómo las redes neuronales representan funciones, aprenden parámetros mediante optimización, generalizan y dan lugar a arquitecturas modernas, con suficiente base matemática para explicar mecanismos y fallos.
 
@@ -52,4 +52,4 @@ Se centra en los mecanismos y arquitecturas de redes neuronales. Los objetivos d
 
 ## Versionado
 
-Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.

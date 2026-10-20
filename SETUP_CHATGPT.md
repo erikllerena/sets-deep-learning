@@ -8,7 +8,26 @@ Este repositorio no se sincroniza automáticamente con un Proyecto de ChatGPT. L
 2. Copia el contenido de `CHATGPT_PROJECT_INSTRUCTIONS.md` en las instrucciones del Proyecto.
 3. Sube, como mínimo, `PROJECT_CONFIG.yaml`, `PROJECT_RULES.md`, `learning/CURRICULUM.md`, `learning/CASEBOOK.md`, `learning/LEARNING_PATHS.md`, `learning/REFERENCES.md`, `state/LEARNING_STATE.md`, `state/EVIDENCE_LOG.md` y `state/README.md`.
 4. **Recomendado desde el inicio:** añade `state/CONCEPT_MAP.md` a las fuentes del Proyecto. Su uso es opcional: si aún no lo subes, el tutor puede funcionar normalmente. El mapa sirve para conectar conceptos; no reemplaza al currículo, el estado ni las evidencias.
-5. Añade `sets-framework/core/PROJECT_INSTRUCTIONS.md`, `sets-framework/core/CONCEPTUAL_ENGINE.md`, `sets-framework/core/ASSESSMENT_ENGINE.md` y `sets-framework/core/SESSION_HANDOFF.md` desde el repositorio `sets-framework` como archivos de referencia si deseas utilizar el marco completo.
+5. **Carga las fuentes esenciales del framework común**, tomadas de `sets-framework` **v1.4.1**, en este mismo Proyecto de ChatGPT. No son archivos exclusivos de esta especialidad ni requieren un framework distinto:
+
+   **Esenciales — SETS Framework v1.4.1:**
+   - `core/PROJECT_INSTRUCTIONS.md` — marco compartido como fuente (no lo pegues encima de las instrucciones activas del programa).
+   - `core/CONCEPTUAL_ENGINE.md` — comprensión de conceptos y mecanismos.
+   - `core/INTERACTION_ENGINE.md` — interacción didáctica y diálogo adaptativo.
+   - `core/DECISION_ENGINE.md` — razonamiento sobre decisiones, criterios y alternativas.
+   - `core/PRACTICE_ENGINE.md` — práctica deliberada, experimentos y transferencia.
+   - `core/ASSESSMENT_ENGINE.md` — valoración de evidencias y competencias.
+   - `core/SESSION_HANDOFF.md` — continuidad y cierre de sesiones.
+   - `templates/LAST_HANDOFF.template.md` — formato del traspaso de sesión.
+
+   **Recomendadas cuando aporten valor:**
+   - `templates/CONCEPT_MAP.template.md` — plantilla general, distinta del mapa vivo de esta especialidad.
+   - `templates/ADR_TEMPLATE.md` — registro de decisiones cuando realmente sea útil.
+   - `docs/REFERENCE_POLICY.md` — uso de fuentes y referencias.
+   - `docs/LEARNING_SCIENCE.md` — criterios pedagógicos del framework.
+   - `docs/QUALITY_CHECKS.md` y `docs/COMMAND_REFERENCE.md` — controles y comandos disponibles.
+
+   **Importante:** las **instrucciones activas** del Proyecto siguen siendo únicamente las de `CHATGPT_PROJECT_INSTRUCTIONS.md` de esta especialidad (paso 2). Los motores del framework se cargan como **fuentes del Proyecto**. Si ya tenías versiones anteriores de estas fuentes, sustitúyelas en lugar de conservar duplicados. Los ZIP individuales de IA no incluyen los archivos del framework: extráelos de tu repositorio `sets-framework` v1.4.1 o del paquete integral del ecosistema.
 6. Inicia con `/start` o pide directamente `/learn <tema>`.
 
 ## Continuidad manual

@@ -1,6 +1,6 @@
 # SETS — Reglas específicas | Deep Learning
 
-**Programa v1.0.0 · Framework común v1.4.1.** Este documento concreta el ámbito de la especialidad y complementa los motores comunes del framework.
+**Programa v1.0.2 · Framework común v1.4.1.** Este documento concreta el ámbito de la especialidad y complementa los motores comunes del framework.
 
 ## 1. Identidad, alcance y autonomía
 
